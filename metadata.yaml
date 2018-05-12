@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36791
 description: '[v.1.] From Nero to Marcus Aurelius -- [v.2.] In the last century of
   the Roman Empire.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34122#Roman-Society-from-Nero-to-Marcus-Aurelius
 gutenberg_issued: '2010-10-23'
 gutenberg_type: Text
 identifiers:
