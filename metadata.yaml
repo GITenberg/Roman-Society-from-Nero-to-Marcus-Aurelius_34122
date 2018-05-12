@@ -1,0 +1,29 @@
+_repo: Roman-Society-from-Nero-to-Marcus-Aurelius_34122
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dill, Samuel
+    alias: Dill, Sir Samuel
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '36791'
+    url: http://www.gutenberg.org/2009/agents/36791
+description: '[v.1.] From Nero to Marcus Aurelius -- [v.2.] In the last century of
+  the Roman Empire.'
+gutenberg_issued: '2010-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34122'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- Religion'
+- !lcc 'DG'
+- !lcsh 'Rome -- Social life and customs'
+title: Roman Society from Nero to Marcus Aurelius
+url: http://www.gutenberg.org/ebooks/34122
